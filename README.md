@@ -65,7 +65,9 @@ Trong dự án này, Firebase được sử dụng để lưu trữ dữ liệu 
 
 _Hình minh họa sơ đồ mạch:_
 
-![Schematic Sensor Node](docs/images/sensor_node_schematic.png)
+![Schematic](Images/Sch.png)
+![PCB](Images/Pcb.png)
+![Mạch thực tế](Images/Mạch.png)
 
 ---
 
