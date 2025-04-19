@@ -122,4 +122,6 @@ _Hình minh họa sơ đồ mạch:_
      2. Chọn đúng board và cổng COM.
      3. Nhấn **Upload** trong Arduino IDE để nạp code vào Node 4.
 ## Tài liệu chi tiết
+[📄 Tài liệu chi tiết](https://docs.google.com/document/d/1G99TuD50ztIW2RdDFPw2Z6U_Oa_O0XJtjfCVR7zlI1Q/edit?usp=sharing)
+
 ## DEMO
