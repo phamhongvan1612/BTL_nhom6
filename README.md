@@ -1,4 +1,4 @@
-# 🔌 Tên Dự Án: Hệ Thống Nhà Thông Minh Sử Dụng Công Nghệ WiFi Mesh
+# Hệ Thống Nhà Thông Minh Sử Dụng Công Nghệ WiFi Mesh
 
 > **Mô tả ngắn gọn:**  
 Dự án thiết kế và triển khai một hệ thống nhà thông minh giám sát nhiệt độ, độ ẩm sử dụng mạng WiFi Mesh giữa các ESP32. Ba node cảm biến thu thập dữ liệu từ DHT11, truyền về node trung tâm (node 4) qua UART. Node 4 đẩy dữ liệu lên Firebase để hiển thị trên giao diện web. Hệ thống ứng dụng cho mục đích giáo dục, học tập và nghiên cứu phát triển các mô hình IoT phân tán.
