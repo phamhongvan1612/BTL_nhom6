@@ -65,9 +65,9 @@ Trong dự án này, Firebase được sử dụng để lưu trữ dữ liệu 
 
 _Hình minh họa sơ đồ mạch:_
 
-![Schematic](BTL_nhom6/Images/Sch.png)
-![PCB](BTL_nhom6/Images/Pcb.png)
-![Mạch thực tế](BTL_nhom6/Images/Mạch.png)
+![Schematic](Image/Sch.png)
+![PCB](Image/Pcb.png)
+![Mạch thực tế](Image/Mạch.png)
 
 ---
 
